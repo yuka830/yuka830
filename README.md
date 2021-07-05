@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning JavaScript.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yuka830=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
