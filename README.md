@@ -1,4 +1,4 @@
-## Yuka
+## Yuka Muramatsu
 ### Hi there, I'm Yuka👋
 
 <!--
